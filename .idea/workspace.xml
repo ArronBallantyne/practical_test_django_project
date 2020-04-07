@@ -3,8 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="c17c32dd-8170-44d9-8055-65c7fd3f9e16" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/tests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/news/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/views.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/news/newspage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practical_test_django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/practical_test_django_project/settings.py" afterDir="false" />
