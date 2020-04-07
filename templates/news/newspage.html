@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+{% load staticfiles %}
+
 <html>
     <head>
         <title>News</title>
@@ -10,7 +13,8 @@
                 {% for article in latest_article_list %}
                     <h3>{{ article.heading }}</h3>
                     {{ article.story_text }}
-                    <h5>Published {{ article.publication_date }}</h5><br /><br />
+                    <h5>Published {{ article.publication_date }}</h5>
+                    <br /><br />
                 {% endfor %}
             {% else %}
                 <p>No Stories are available.</p>
